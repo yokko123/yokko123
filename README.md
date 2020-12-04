@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yokko123](Github Repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/yokko123]
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **md.sazidur.rahman@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [https://yokko123.github.io/yokko/](Resume)
+- 📄 Know about my experiences [https://yokko123.github.io/yokko/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sazidur79346125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sazidur79346125" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md sazidur rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md sazidur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/sazidur rahman yokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sazidur rahman yokko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-sazidur-rahman-292812158/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md sazidur rahman" height="30" width="40" /></a>
+<a href="https://fb.com/sazidur.yokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sazidur rahman yokko" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yokko123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yokko123" height="30" width="40" /></a>
 </p>
 

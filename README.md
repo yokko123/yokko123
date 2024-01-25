@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with [Project or Technology]
 - 💬 Ask me about [Technology, Tools, or Domain Expertise]
 - 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🛠️ Skills
@@ -30,6 +29,14 @@ Languages and Tools:
 - [Blog Post Title 2](Link to Blog Post)
 ...
 <!-- BLOG-POST-LIST:END -->
+
+## 🔥 Recent GitHub Repositories
+
+<!-- REPOS:START -->
+- [Repository Name](Link to Repository)
+- [Another Repository Name](Link to Repository)
+...
+<!-- REPOS:END -->
 
 ## 📫 How to Reach Me
 
